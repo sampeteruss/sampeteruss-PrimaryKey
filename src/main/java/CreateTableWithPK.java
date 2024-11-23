@@ -49,7 +49,6 @@ public class CreateTableWithPK {
      *      |3      |'Kashmir'          |'Led Zeppelin'         |
      */
     public void problem1(){
-
         /**
          * Assignment: create a table in problem1.sql called "song" that has 3 columns listed above
          *
